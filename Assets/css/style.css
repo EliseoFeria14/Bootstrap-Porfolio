@@ -1,0 +1,10 @@
+body{ background-image: url("../images/concrete-texture.png")
+}
+a img{
+	height: 50px;
+	width: 50px;
+}
+img{
+	height: 300px;
+	width: 300px;
+}
