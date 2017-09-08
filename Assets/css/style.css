@@ -8,3 +8,12 @@ img{
 	height: 300px;
 	width: 300px;
 }
+footer{
+	border-style: solid;
+	border-color-top: teal;
+	background-color: gray;
+}
+.text{
+	color: white;
+	text-align: center;
+}
